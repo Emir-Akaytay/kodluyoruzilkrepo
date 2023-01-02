@@ -33,7 +33,7 @@ cd .
 
 ## Contributing
 
-**Pull request**'ler kabul edilir.Büyük değişiklirler için lütfen öncelikle bir konu açınız.
+**Pull request**'ler kabul edilir.Büyük değişiklikler için lütfen öncelikle bir konu açınız.
 
 ---
 
